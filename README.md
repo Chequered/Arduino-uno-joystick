@@ -32,4 +32,4 @@ You can read the comments in the scripts and try to understand the logic behind 
 Now you can expand on this project and make a small game using the Arduino and joystick.
 
 
-Creadted by: Djamali Jones & Daan Ruiter
+Created by: Djamali Jones & Daan Ruiter

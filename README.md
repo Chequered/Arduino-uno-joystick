@@ -2,14 +2,14 @@
 
 Before continuing with this tutorial make sure you have the following at your disposal:
 
-  *Arduino Uno with placement board.
-  *Unity3D
--Arduino program (Codebender or the program found on Arduino’s website)
--Miscellaneous wires. (Included with an Arduino)
--Two resistors (Included with an Arduino)
--2-way Axis Joystick
--USB Cable (Included with an Arduino)
--Computer
+- Arduino Uno with placement board.
+- Unity3D
+- Arduino program (Codebender or the program found on Arduino’s website)
+- Miscellaneous wires. (Included with an Arduino)
+- Two resistors (Included with an Arduino)
+- 2-way Axis Joystick
+- USB Cable (Included with an Arduino)
+- Computer
 
 Do you have these things? Yes. Then continue.
 
